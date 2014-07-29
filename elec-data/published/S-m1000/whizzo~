@@ -1,0 +1,20 @@
+#!/bin/bash 
+
+directory=/usr/groups/building/meter-readings/meters.cl.cam.ac.uk/elec
+
+if [ ! -d $directory ]; then 
+   echo "Directory invalid"
+   exit 
+fi 
+files=$(find $directory -name S-m[0-9]*-[0-9][0-9][0-9][0-9]-[0-9][0-9]*.json)
+for file in $files ; do
+    nfile=$(basename "$file")
+    mdir=`expr "$nfile" : '\(S-m[0-9]*\)'`
+    sfile=$directory/published/$mdir/$nfile
+    if [[ $file -nt $sfile ]]; then
+	echo out of date
+	./shrink $file >  $sfile
+    fi
+done;
+
+

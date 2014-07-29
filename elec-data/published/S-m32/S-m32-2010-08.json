@@ -1,0 +1,5 @@
+{
+"label": "32 2010-08"  , "room": "GW16"  , "Phase": "L1"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb2/G-sockets"  , "description": "Power"  , "type": "Auto Meter IC970"  , "ts": "2010-08"  ,
+"data": { "start" : 1282046400000 , "step" : 86400000, "readings": [
+0.917, 0.917]}
+}

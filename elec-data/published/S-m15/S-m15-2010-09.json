@@ -1,0 +1,5 @@
+{
+"label": "15 2010-09"  , "room": "FC31"  , "Phase": "L1"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/F-lighting"  , "description": "Lighting"  , "type": "Auto Meter IC970"  , "ts": "2010-09"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+2.055]}
+}

@@ -1,0 +1,5 @@
+{
+"label": "32 2010-11-12"  , "room": "GW16"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb2/G-sockets"  , "description": "Sockets"  , "coverage": "Lecture Theatres"  , "type": "Auto Meter IC970"  , "ts": "2010-11-12"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.044]}
+}

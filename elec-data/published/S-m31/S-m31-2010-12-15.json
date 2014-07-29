@@ -1,0 +1,6 @@
+{
+"label": "31 2010-12-15"  , "room": "FW10"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs4-riser/F-sockets"  , "description": "Sockets"  , "coverage": "First West"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.033, 0.027, 0.031, 0.039, 0.031, 0.039, 0.032, 0.039, 0.039, 0.082, 
+0.077, 0.032, 0.027, 0.027, 0.031, 0.032, 0.027, 0.043, 0.028, 0.031]}
+}

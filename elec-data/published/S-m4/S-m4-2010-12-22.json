@@ -1,0 +1,5 @@
+{
+"label": "4 2010-12-22"  , "room": "GW32"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb1/G-kitchen"  , "description": "Kitchen power"  , "coverage": "cOVERAGE"  , "type": "Auto Meter IC970"  , "ts": "2010-12-22"  ,
+"data": { "start" : 1292979000000 , "step" : 13080000, "readings": [
+0.077, 0.096, 0.115, 0.135, 0.145, 0.108, -0.366]}
+}

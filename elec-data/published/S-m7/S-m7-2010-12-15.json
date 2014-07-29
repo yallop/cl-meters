@@ -1,0 +1,7 @@
+{
+"label": "7 2010-12-15"  , "room": "GS33"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/G-lighting"  , "description": "Lighting"  , "coverage": "Ground South"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.062, 0.150, 0.159, 0.152, 0.133, 0.129, 0.130, 0.128, 0.118, 0.139, 
+0.141, 0.146, 0.136, 0.141, 0.133, 0.118, 0.136, 0.129, 0.165, 0.170, 
+0.162]}
+}

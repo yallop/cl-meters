@@ -1,0 +1,6 @@
+{
+"label": "30 2010-12-15"  , "room": "FW10"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs4-riser/F-lighting"  , "description": "Lighting"  , "coverage": "First West"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.049, 0.051, 0.051, 0.051, 0.047, 0.070, 0.079, 0.070, 0.071, 0.082, 
+0.081, 0.079, 0.082, 0.078, 0.081, 0.079, 0.070, 0.077, 0.079, 0.081]}
+}

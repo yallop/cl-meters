@@ -1,0 +1,5 @@
+{
+"label": "13 2010-09"  , "room": "SC31"  , "Phase": "L3"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/S-lighting"  , "description": "Lighting"  , "type": "Auto Meter IC970"  , "ts": "2010-09"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+1.746]}
+}

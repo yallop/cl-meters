@@ -1,0 +1,5 @@
+{
+"label": "33 2010-08-18"  , "room": "GW16"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb2/G-lighting"  , "description": "Lighting"  , "coverage": "Lecture Theatres"  , "type": "Auto Meter IC970"  , "ts": "2010-08-18"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.011]}
+}

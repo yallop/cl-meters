@@ -1,0 +1,5 @@
+{
+"label": "6 2010-08-18"  , "room": "GS33"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/G-sockets"  , "description": "Sockets"  , "coverage": "Ground South"  , "type": "Auto Meter IC970"  , "ts": "2010-08-18"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.114]}
+}

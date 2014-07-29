@@ -1,0 +1,5 @@
+{
+"label": "8 2010-08"  , "room": "FS31"  , "Phase": "L3"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/F-sockets"  , "description": "Power"  , "type": "Auto Meter IC970"  , "ts": "2010-08"  ,
+"data": { "start" : 1282046400000 , "step" : 86400000, "readings": [
+2.750, 2.708]}
+}

@@ -1,0 +1,6 @@
+{
+"label": "23 2010-12-15"  , "room": "FN30"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/F-lighting"  , "description": "Lighting"  , "coverage": "First North"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.085, 0.191, 0.184, 0.180, 0.180, 0.188, 0.199, 0.190, 0.193, 0.199, 
+0.199, 0.188, 0.172, 0.184, 0.168, 0.172, 0.156, 0.168, 0.176, 0.160]}
+}

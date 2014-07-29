@@ -1,0 +1,5 @@
+{
+"label": "3 2010-08-17"  , "room": "FW29"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb1/F-lighting-sockets"  , "description": "Lighting and sockets"  , "coverage": "cOVERAGE"  , "type": "Auto Meter IC970"  , "ts": "2010-08-17"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.026]}
+}

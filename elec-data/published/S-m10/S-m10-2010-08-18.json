@@ -1,0 +1,5 @@
+{
+"label": "10 2010-08-18"  , "room": "SS31"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/S-sockets"  , "description": "Sockets"  , "coverage": "Second South"  , "type": "Auto Meter IC970"  , "ts": "2010-08-18"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.103]}
+}

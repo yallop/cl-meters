@@ -1,0 +1,6 @@
+{
+"label": "26 2010-12-15"  , "room": "SN30"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/S-sockets"  , "description": "Sockets"  , "coverage": "Second North"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.406, 0.473, 0.480, 0.543, 0.523, 0.477, 0.477, 0.476, 0.485, 0.480, 
+0.465, 0.477, 0.480, 0.477, 0.480, 0.477, 0.484, 0.465, 0.484, 0.473]}
+}

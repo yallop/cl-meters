@@ -1,0 +1,5 @@
+{
+"label": "12 2010-08"  , "room": "SC31"  , "Phase": "L2"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/S-sockets"  , "description": "Power"  , "type": "Auto Meter IC970"  , "ts": "2010-08"  ,
+"data": { "start" : 1282046400000 , "step" : 86400000, "readings": [
+2.042, 2.250]}
+}

@@ -1,0 +1,7 @@
+{
+"label": "25 2011-04-30"  , "room": "SN30"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/S-lighting"  , "description": "Lighting and a/c"  , "coverage": "Second North"  , "type": "Auto Meter IC970"  , "ts": "2011-04-30"  ,
+"data": { "start" : 1304204520000 , "step" : 120000, "readings": [
+0.040, 0.030, 0.040, 0.040, 0.030, 0.040, 0.030, 0.040, 0.040, 0.040, 
+0.030, 0.040, 0.040, 0.030, 0.040, 0.030, 0.040, 0.040, 0.030, 0.040, 
+0.030, 0.050, 0.030, 0.040, 0.030, 0.040, 0.040, 0.030, 0.040]}
+}

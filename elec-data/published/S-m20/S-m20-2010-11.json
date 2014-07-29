@@ -1,0 +1,5 @@
+{
+"label": "20 2010-11"  , "room": "GN17"  , "Phase": "L2"  , "path": "meters.cl.cam.ac.uk/elec/primary-G-exr"  , "description": "Lighting and Power"  , "type": "Auto Meter IC970"  , "ts": "2010-11"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+1.297]}
+}

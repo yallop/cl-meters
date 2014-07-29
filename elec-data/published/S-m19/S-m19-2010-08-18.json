@@ -1,0 +1,5 @@
+{
+"label": "19 2010-08-18"  , "room": "GN09"  , "path": "meters.cl.cam.ac.uk/elec/primary-cr-ac"  , "description": "Machine room a/c"  , "coverage": "cOVERAGE"  , "type": "Auto Meter IC970"  , "ts": "2010-08-18"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.372]}
+}

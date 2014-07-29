@@ -1,0 +1,5 @@
+{
+"label": "27 2010-09"  , "room": "SE18"  , "Phase": "3"  , "path": "meters.cl.cam.ac.uk/elec/primary-se18"  , "description": "computers and A/C"  , "type": "Auto Meter IC970"  , "ts": "2010-09"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+22.783]}
+}

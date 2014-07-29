@@ -1,0 +1,6 @@
+{
+"label": "21 2010-12-15"  , "room": "GN17"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/G-sockets"  , "description": "Sockets"  , "coverage": "Ground North"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.042, 0.031, 0.031, 0.027, 0.031, 0.031, 0.031, 0.039, 0.031, 0.043, 
+0.027, 0.031, 0.039, 0.031, 0.031, 0.027, 0.043, 0.027, 0.039, 0.031]}
+}

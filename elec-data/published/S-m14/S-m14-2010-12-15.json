@@ -1,0 +1,7 @@
+{
+"label": "14 2010-12-15"  , "room": "FC31"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/F-sockets"  , "description": "Sockets"  , "coverage": "First Central"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.115, 0.114, 0.132, 0.133, 0.109, 0.141, 0.109, 0.129, 0.121, 0.125, 
+0.121, 0.121, 0.145, 0.129, 0.141, 0.122, 0.128, 0.137, 0.118, 0.136, 
+0.148]}
+}

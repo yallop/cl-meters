@@ -1,0 +1,5 @@
+{
+"label": "9 2010-11-12"  , "room": "FS31"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/F-lighting"  , "description": "Lighting"  , "coverage": "First South"  , "type": "Auto Meter IC970"  , "ts": "2010-11-12"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.054]}
+}

@@ -1,0 +1,6 @@
+{
+"label": "18 2010-12-15"  , "room": "GN09"  , "path": "meters.cl.cam.ac.uk/elec/primary-cr2"  , "description": "Machine room power"  , "coverage": "cOVERAGE"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.092, 0.091, 0.097, 0.090, 0.090, 0.086, 0.090, 0.090, 0.094, 0.090, 
+0.094, 0.090, 0.090, 0.098, 0.090, 0.090, 0.086, 0.090, 0.090, 0.094]}
+}

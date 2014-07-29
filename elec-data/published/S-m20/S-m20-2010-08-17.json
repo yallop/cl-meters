@@ -1,0 +1,5 @@
+{
+"label": "20 2010-08-17"  , "room": "GN17"  , "path": "meters.cl.cam.ac.uk/elec/primary-G-exr"  , "description": "Lighting"  , "coverage": "External"  , "type": "Auto Meter IC970"  , "ts": "2010-08-17"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.025]}
+}

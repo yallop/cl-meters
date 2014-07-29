@@ -1,0 +1,5 @@
+{
+"label": "11 2010-08-18"  , "room": "SS31"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs3-riser/S-lighting"  , "description": "Lighting"  , "coverage": "Second South"  , "type": "Auto Meter IC970"  , "ts": "2010-08-18"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.071]}
+}

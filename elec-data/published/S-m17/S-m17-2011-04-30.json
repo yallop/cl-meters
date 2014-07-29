@@ -1,0 +1,7 @@
+{
+"label": "17 2011-04-30"  , "room": "GC29"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/G-lighting"  , "description": "Lighting"  , "coverage": "Ground Central"  , "type": "Auto Meter IC970"  , "ts": "2011-04-30"  ,
+"data": { "start" : 1304204640000 , "step" : 120000, "readings": [
+0.030, 0.030, 0.030, 0.030, 0.030, 0.020, 0.030, 0.030, 0.030, 0.030, 
+0.020, 0.030, 0.030, 0.030, 0.030, 0.020, 0.030, 0.030, 0.030, 0.030, 
+0.030, 0.030, 0.020, 0.025, 0.030, 0.030, 0.030, 0.020]}
+}

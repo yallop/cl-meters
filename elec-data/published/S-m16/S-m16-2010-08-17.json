@@ -1,0 +1,5 @@
+{
+"label": "16 2010-08-17"  , "room": "GC29"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/G-sockets"  , "description": "Sockets"  , "coverage": "Ground Central"  , "type": "Auto Meter IC970"  , "ts": "2010-08-17"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.115]}
+}

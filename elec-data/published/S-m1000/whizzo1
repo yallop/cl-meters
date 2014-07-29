@@ -1,0 +1,11 @@
+#!/bin/bash 
+
+files=$(ls S-m[0-9]*-[0-9][0-9][0-9][0-9]-[0-9][0-9]*.json)
+for file in $files ; do
+    echo $file
+    newfile=${file/m1/m1000}
+    echo $newfile
+    mv $file $newfile
+done;
+
+

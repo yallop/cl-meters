@@ -1,0 +1,7 @@
+{
+"label": "1 2010-12-15"  , "room": "SW20"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb1/S-lighting"  , "description": "Lighting"  , "coverage": "Second West"  , "type": "Auto Meter IC970"  , "ts": "2010-12-15"  ,
+"data": { "start" : 1292413920000 , "step" : 120000, "readings": [
+0.047, 0.145, 0.152, 0.164, 0.148, 0.148, 0.160, 0.160, 0.156, 0.172, 
+0.121, 0.121, 0.121, 0.121, 0.117, 0.117, 0.109, 0.102, 0.102, 0.082, 
+0.031]}
+}

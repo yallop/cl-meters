@@ -1,0 +1,5 @@
+{
+"label": "25 2010-08"  , "room": "SN30"  , "Phase": "3"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/S-lighting"  , "description": "Lighting and roof A/C"  , "type": "Auto Meter IC970"  , "ts": "2010-08"  ,
+"data": { "start" : 1282046400000 , "step" : 86400000, "readings": [
+2.333, 2.458]}
+}

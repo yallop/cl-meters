@@ -1,0 +1,5 @@
+{
+"label": "22 2010-09-08"  , "room": "GN17"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/G-lighting"  , "description": "Lighting"  , "coverage": "Ground North"  , "type": "Auto Meter IC970"  , "ts": "2010-09-08"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.043]}
+}

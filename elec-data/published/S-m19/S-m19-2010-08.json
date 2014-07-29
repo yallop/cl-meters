@@ -1,0 +1,5 @@
+{
+"label": "19 2010-08"  , "room": "GN09"  , "Phase": "3"  , "path": "meters.cl.cam.ac.uk/elec/primary-cr-ac"  , "description": "A/C"  , "type": "Auto Meter IC970"  , "ts": "2010-08"  ,
+"data": { "start" : 1282046400000 , "step" : 86400000, "readings": [
+11.500, 11.167]}
+}

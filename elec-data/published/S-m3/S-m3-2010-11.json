@@ -1,0 +1,5 @@
+{
+"label": "3 2010-11"  , "room": "FW29"  , "Phase": "L2"  , "path": "meters.cl.cam.ac.uk/elec/primary-smb1/F-lighting-sockets"  , "description": "Lighting and Power"  , "type": "Auto Meter IC970"  , "ts": "2010-11"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.681]}
+}

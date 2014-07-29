@@ -1,0 +1,7 @@
+{
+"label": "13 2011-03-31"  , "room": "SC31"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs2-riser/S-lighting"  , "description": "Lighting"  , "coverage": "Second Central"  , "type": "Auto Meter IC970"  , "ts": "2011-03-31"  ,
+"data": { "start" : 1301612520000 , "step" : 120000, "readings": [
+0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 
+0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 0.020, 
+0.020, 0.020, 0.020, 0.020, 0.020, 0.010, 0.020, 0.020, 0.020]}
+}

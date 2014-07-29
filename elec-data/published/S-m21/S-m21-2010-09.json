@@ -1,0 +1,5 @@
+{
+"label": "21 2010-09"  , "room": "GN17"  , "Phase": "L1"  , "path": "meters.cl.cam.ac.uk/elec/primary-cs1-riser/G-sockets"  , "description": "Power"  , "type": "Auto Meter IC970"  , "ts": "2010-09"  ,
+"data": { "start" : 0 , "step" : 0, "readings": [
+0.947]}
+}
